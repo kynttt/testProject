@@ -1,0 +1,59 @@
+
+    /* Reset some default styles and set a common font family */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    /* Style the header with a dark background, white text, padding, and centered text */
+    header {
+      background-color: #232f3e;
+      color: #ffffff;
+      padding: 10px;
+      text-align: center;
+    }
+
+    /* Create a container with a maximum width, margin, padding, and box shadow for a visual effect */
+    .container {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    /* Style the text input with width, padding, and margin */
+    input[type="text"] {
+      width: 70%;
+      padding: 10px;
+      margin-right: 10px;
+    }
+
+    /* Style the button with padding and a cursor effect */
+    button {
+      padding: 10px;
+      cursor: pointer;
+    }
+
+    /* Margin for the search results */
+    #results {
+      margin-top: 20px;
+    }
+
+    /* Style for each product with a border, padding, and margin */
+    .product {
+      border: 1px solid #ddd;
+      padding: 10px;
+      margin-bottom: 10px;
+    }
+
+    /* Style for product images to ensure they fit within the container */
+    .product img {
+      max-width: 100%;
+      height: auto;
+    }
+
+    /* Style for star ratings with a yellow color */
+    .star-rating {
+      color: #FFD700;
+    }
