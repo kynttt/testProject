@@ -9,7 +9,7 @@
 ## Running the Application
 
 - Open `index.html` in a web browser.
-- Enter a keyword and click the "Scrape" button to see the results.
+- Enter a keyword and click the "Search" button to see the results.
 
 ## Error Handling
 
